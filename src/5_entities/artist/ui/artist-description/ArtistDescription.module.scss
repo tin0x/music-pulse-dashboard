@@ -58,7 +58,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .artistDescription {
     flex-direction: column;
 
@@ -67,6 +67,10 @@
         flex-direction: column;
         white-space: none;
       }
+    }
+
+    &Subtext {
+      white-space: wrap;
     }
 
     &Block {

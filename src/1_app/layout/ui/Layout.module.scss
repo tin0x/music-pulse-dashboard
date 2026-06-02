@@ -49,14 +49,13 @@
         'footer footer footer';
     }
 
-    //noinspection CssUnusedSymbol
     &[data-header-open] .layoutHistoryControls {
       display: none;
     }
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .layout {
     grid-template-columns: 1fr;
     grid-template-areas:
@@ -87,7 +86,6 @@
     grid-auto-columns: 1fr;
     position: relative;
 
-    //noinspection CssUnusedSymbol
     &[data-header-open] .layoutHistoryControls {
       display: none;
     }
