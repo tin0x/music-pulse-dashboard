@@ -1,4 +1,4 @@
-# 🎵 Music Pulse
+# 🎵 Music Pulse - Player
 
 Music Pulse is a cutting-edge, high-performance music streaming web application built using the latest stable React ecosystem. Featuring a premium dark mode design with neon violet highlights, it offers full-scale audio playback management, dynamic data fetching, precise type safety, and responsive layouts tailored for modern web browsers.
 
@@ -66,13 +66,13 @@ The directory hierarchy follows exact FSD slice abstractions ensuring bulletproo
 1. Clone the project locally:
 
 ```bash
-git clone https://github.com/tin0x/music-pulse-dashboard.git
+git clone https://github.com/tin0x/music-pulse-player.git
 ```
 
 2. Boot into the source directory and pull production dependencies:
 
 ```bash
-cd music-pulse-dashboard
+cd music-pulse-player
 npm install
 ```
 
